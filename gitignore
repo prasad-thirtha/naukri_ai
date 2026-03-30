@@ -1,6 +1,0 @@
-.env
-venv/
-storage/
-logs/
-screenshots/
-__pycache__/
